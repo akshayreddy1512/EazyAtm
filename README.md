@@ -1,4 +1,4 @@
-# case3
+# Eazy Atm
 
 A new Flutter project.
 
