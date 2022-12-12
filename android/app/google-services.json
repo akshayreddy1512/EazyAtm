@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "7724978744",
+    "project_id": "easy-atm-project",
+    "storage_bucket": "easy-atm-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7724978744:android:21051872f9176535e70ccd",
+        "android_client_info": {
+          "package_name": "com.example.case3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7724978744-m2komk6mccus13p11isimbrlpmga963m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.case3",
+            "certificate_hash": "4fd3db183c96e1e10c701f772a3aabda977e7d5c"
+          }
+        },
+        {
+          "client_id": "7724978744-tau26t6ci0qorcd10ogflo82ff4jqhah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyHSxFsObMiiAdwpflNtqTdST4jt2weyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7724978744-tau26t6ci0qorcd10ogflo82ff4jqhah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
